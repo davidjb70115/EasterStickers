@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StickerList</key>
+	<array>
+		<dict>
+			<key>PNG</key>
+			<string>Star Red</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+		<dict>
+			<key>PNG</key>
+			<string>Pink Glory</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+		<dict>
+			<key>PNG</key>
+			<string>Flower Child</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+		<dict>
+			<key>PNG</key>
+			<string>Circus Stripes</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+		<dict>
+			<key>PNG</key>
+			<string>Blue Diamond</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+		<dict>
+			<key>PNG</key>
+			<string>Mardi Gras</string>
+			<key>Free</key>
+			<string>true</string>
+		</dict>
+	</array>
+	<key>ID</key>
+	<string>INAPPID</string>
+	<key>TestInPaidMode</key>
+	<false/>
+	<key>PurchaseText</key>
+	<string>Every Sticker for $1</string>
+	<key>PurchaseText2</key>
+	<string>Please buy!</string>
+	<key>PurchaseText3</key>
+	<string>Support my bad habits!</string>
+	<key>Font</key>
+	<string>Arial</string>
+	<key>BuyButtonWider</key>
+	<true/>
+	<key>ExtraVerticalSpacing</key>
+	<integer>30</integer>
+	<key>ButtonAlpha</key>
+	<integer>0</integer>
+	<key>Red</key>
+	<real>0.2</real>
+	<key>Green</key>
+	<real>0.2</real>
+	<key>Blue</key>
+	<real>0.2</real>
+	<key>Deceleration</key>
+	<real>0.9</real>
+	<key>StopOffScreenAnimations</key>
+	<false/>
+	<key>Background</key>
+	<string>Pattern</string>
+	<key>TransactionID</key>
+	<string>Enter CartoonSmart Transaction ID</string>
+</dict>
+</plist>
