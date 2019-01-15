@@ -46,7 +46,7 @@
 	<key>TestInPaidMode</key>
 	<false/>
 	<key>PurchaseText</key>
-	<string>Every Sticker for $1</string>
+	<string>All are free</string>
 	<key>PurchaseText2</key>
 	<string>Please buy!</string>
 	<key>PurchaseText3</key>
